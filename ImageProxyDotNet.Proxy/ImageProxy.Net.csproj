@@ -68,7 +68,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Code\ImageManipulation\BitmapUtilities.cs" />
+    <Compile Include="Code\ImageManipulation\BitmapFrameExtensions.cs" />
     <Compile Include="Code\ImageManipulation\ImageFormatExtensions.cs" />
     <Compile Include="Code\ImageSourcingService.cs" />
     <Compile Include="Code\PhysicalImageProviders\IPhysicalImageProvider.cs" />
